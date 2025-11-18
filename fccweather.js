@@ -43,3 +43,9 @@ async function showWeather(city){
 getWeatherBtn.addEventListener("click", () => {
     showWeather(city);
 });
+
+.
+ 
+
+const sum = (num1, num2) => num1 + num2;
+console.log(sum(0, 0) + 10);
